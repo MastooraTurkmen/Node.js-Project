@@ -1,4 +1,4 @@
-# co6994b09a5ef34b50eacce7c
+# Galaxy
 
 Quick start:
 
