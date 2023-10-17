@@ -1,21 +1,18 @@
-# co6994b09a5ef34b50eacce7c
+# GALAXY
 
 Quick start:
-
 ```
 $ npm install
 $ npm start
 ````
-
 Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Simple galaxy site with animation
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+https://galaxy-simple-site.netlify.app/
 
-Happy Coding!
+
+![Screenshot-galaxy1](https://github.com/MastooraTurkmen/Galaxy/assets/132576850/d5f96c0a-a2d5-4f70-87d0-dcd5ad1b06ed)
+
+![Screenshot galaxy2](https://github.com/MastooraTurkmen/Galaxy/assets/132576850/32a07598-6c04-43e4-bf4b-7c3bbcbe9a8d)
+
