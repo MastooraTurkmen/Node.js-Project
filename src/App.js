@@ -1,8 +1,6 @@
 function App() {
   return (
-    <div className="App">
-      
-    </div>
+    <h2>React App</h2>
   );
 }
 
