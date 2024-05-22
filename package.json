@@ -8,5 +8,8 @@
   },
   "author": "",
   "license": "ISC",
-  "keywords": []
+  "keywords": [],
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
 }
