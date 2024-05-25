@@ -1,5 +1,8 @@
+const path = require('path');
+
 function getMessages(req, res) {
-    res.send('<url><li>Hello Albert!</li></url>');
+    const imagePath = path.join(__dirname, '..', 'public', 'images', 'skimountain.jpg');
+    res.sendFile(imagePath);
 }
 
 function postMessage(req, res) {
